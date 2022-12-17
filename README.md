@@ -5,7 +5,7 @@ Worried of the possibility of someone gaining access to your server and /opping 
 
 Fear not, with ConsoleOnlyOP you can sleep soundly.
 
-Features
+## Features
 
     Only console can now run the /op command.
     Anti Bypass Feature -> prevents players from using the /minecraft:op command instead.
