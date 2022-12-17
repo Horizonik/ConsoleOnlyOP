@@ -14,10 +14,10 @@ Fear not, with ConsoleOnlyOP you can sleep soundly.
 (Essentially a small plugin that limits access to the /op command to only the console, with a extra feature that blocks any default command bypasses).
 
 ## Commands that this plugin blocks:
-• /minecraft:ban Player -> is blocked!
-• /essentials:ban Player -> is blocked!
-• /ban Player -> is allowed and completely fine.
-(Works with any plugin name and any command)
+- /minecraft:ban Player -> is blocked!
+- /essentials:ban Player -> is blocked!
+- /ban Player -> is allowed and completely fine.
+- (Works with any plugin name and any command)
 
 [SPOILER="The Config File"]
 [code=YAML]# The name of your server. Will appear before the message.
