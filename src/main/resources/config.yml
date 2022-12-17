@@ -1,0 +1,16 @@
+# The name of your server. Will appear before the message.
+# Change it to "" if you don't want to use it.
+prefix: "&7&bServer | "
+
+# The message that shows up when a player tries to use the command /op name
+# {player_name} is the name of the player that was entered in the /op command
+NoPermissionsMessage: "&7{player_name} is not in the sudoers file. This incident will be reported."
+
+# The message that shows up when a player is trying to bypass a default command.
+# {original_command} is the command that was blocked, but without its plugin prefix.
+# if -> /minecraft:op Player was entered, {original_command} will be -> /op Player
+
+# For example, the command -> /minecraft:ban Player -> will be blocked!
+# Or, the command -> /essentials:ban Player -> will be blocked!
+# But using the command -> /ban Player -> is completely allowed
+NoBypassMessage: "&7Sorry! Try using {original_command} instead!"

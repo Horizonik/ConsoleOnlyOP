@@ -1,0 +1,10 @@
+name: ConsoleOnlyOP
+version: '${project.version}'
+main: gemesil.consoleonlyop.ConsoleOnlyOP
+api-version: 1.19
+authors: [ Gemesil ]
+description: Limits the OP commands for usage from console only!
+commands:
+  op:
+    description: Give a player operator permissions
+    usage: "Usage: /<command> player_name"
